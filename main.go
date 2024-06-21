@@ -34,9 +34,8 @@ func main()  {
     var numTwo int8 = -128
     var numThree uint = 25
 
-    jfskfmsod
-    :sfd
 
-
+    fmt.Println(numOne, numTwo, numThree)
+    
 
 }
